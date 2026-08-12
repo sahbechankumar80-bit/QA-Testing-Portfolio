@@ -92,5 +92,3 @@ Jira | Postman | Playwright | JavaScript | SQL | JMeter
 
 
 
-LinkedIn: Your LinkedIn Profile
-Email: Your Email
