@@ -1,1 +1,15 @@
+# API Testing
 
+## Tool
+Postman
+
+## Testing Performed
+
+- GET API Testing
+- POST API Testing
+- PUT API Testing
+- DELETE API Testing
+- Status Code Validation
+- Response Validation
+- Positive Testing
+- Negative Testing
